@@ -1,0 +1,26 @@
+body{
+    background-image: url(image/img.png)
+   
+}
+.container{
+    background-color: burlywood;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    width: 300%;
+    margin-top: 5%;
+    font-family: sans-serif;
+    
+
+}
+.coffee{
+    text-align: center;
+   
+}
+.coffee-menu{
+    display: flex;
+    justify-content: space-around;
+}
+.name{
+    text-align:left ;
+}
